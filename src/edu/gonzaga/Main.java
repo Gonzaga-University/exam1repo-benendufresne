@@ -1,9 +1,9 @@
 package edu.gonzaga;
-
+// Simple class that adds two values, similar to the exam problem
 class Adder {
     int val1;
     int val2;
-
+// Constructer that takes in two values.
     public Adder(int new_val1, int new_val2) {
         val1 = new_val1;
         val2 = new_val2;
